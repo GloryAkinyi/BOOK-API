@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bookland.iml" filepath="$PROJECT_DIR$/.idea/modules/Bookland.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bookland.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bookland.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bookland.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bookland.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bookland.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bookland.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bookland.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bookland.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

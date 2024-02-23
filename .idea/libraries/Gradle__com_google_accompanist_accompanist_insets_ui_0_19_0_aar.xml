@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-insets-ui:0.19.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1887ee0520ec7ff900094fb7c1789aef/transformed/jetified-accompanist-insets-ui-0.19.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1887ee0520ec7ff900094fb7c1789aef/transformed/jetified-accompanist-insets-ui-0.19.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-insets-ui/0.19.0/1227a6746b324e54aa12f659745b0b7e9ca92a9c/accompanist-insets-ui-0.19.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-insets-ui/0.19.0/63a37d76c0034fe2ea623646ace0555c0fbf401/accompanist-insets-ui-0.19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

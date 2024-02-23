@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:aboutlibraries-compose-android:10.3.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1f09d71068c64e1ccaf4c575404ecf47/transformed/jetified-aboutlibraries-compose-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1f09d71068c64e1ccaf4c575404ecf47/transformed/jetified-aboutlibraries-compose-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1f09d71068c64e1ccaf4c575404ecf47/transformed/jetified-aboutlibraries-compose-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries-compose-android/10.3.1/5a8c1f956056bbe9dff4d9a85bc6960987cee79d/aboutlibraries-compose-android-10.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries-compose-android/10.3.1/d9462ff2ca9a2780dd49885bee90f366d944d11a/aboutlibraries-compose-android-10.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
